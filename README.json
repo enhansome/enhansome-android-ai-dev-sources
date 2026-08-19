@@ -1,49 +1,9 @@
 {
-  "items": [
-    {
-      "description": "快速导航 🤖 Android 官方资源 · 📱 Android 技术博客 · 🌐 Android 社区 · 🧠 AI & LLM · 💻 优质技术博客 · 🛠 开发工具",
-      "items": [],
-      "title": "👤 关于作者"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🔥 最近收录"
-    },
-    {
-      "description": "官方Blog、工具、YouTube、GitHub源码库 · 18 个源\n",
-      "items": [],
-      "title": "🤖 Android 官方资源"
-    },
-    {
-      "description": "独立博客、掘金、知乎、公众号 · 66 个源\n",
-      "items": [],
-      "title": "📱 Android 技术博客"
-    },
-    {
-      "description": "周报、论坛、Telegram群 · 7 个源\n",
-      "items": [],
-      "title": "🌐 Android 社区"
-    },
-    {
-      "description": "AI 领域精选资源（详见 awesome-ai-field-notes） · 71 个源\n",
-      "items": [],
-      "title": "🧠 AI & LLM"
-    },
-    {
-      "description": "通用技术、架构、工程实践 · 46 个源\n",
-      "items": [],
-      "title": "💻 优质技术博客"
-    },
-    {
-      "description": "性能分析、调试、开发效率工具 · 25 个源",
-      "items": [],
-      "title": "🛠 开发工具"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-19T05:52:12.971Z",
+    "last_updated": "2026-08-19T12:15:39.681Z",
     "original_repository": "Gracker/awesome-android-ai-dev-sources",
+    "original_repository_id": 19644242,
     "original_repository_sha": "5e78afac97756a5aa72370f389677fb7dbad0c89",
     "enhanced_repository": "enhansome/enhansome-android-ai-dev-sources",
     "enhanced_repository_description": null,
