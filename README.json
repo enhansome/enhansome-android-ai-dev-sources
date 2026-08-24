@@ -1,7 +1,557 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "每日自动发现，LLM 评估后收录 · 更新于 2026-08-06",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mattpocock/skills 🐙",
+          "description": "📬 🛠 开发工具 Matt Pocock 日常工程 agent skills 仓库（含 grill-me/grilling 需求对齐 primitive）；小而可组合、跨模型，是 skill 工程与苏格拉底式需求压力测试的稳定源。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1148788086,
+            "language": "Shell",
+            "last_commit": "2026-08-21T10:56:48Z",
+            "owner": "mattpocock",
+            "repo": "skills",
+            "stars": 234904
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prime Agent 🐙",
+          "description": "🛠 开发工具 开源 self-improving RLM coding agent（MIT）：IPython 程序化工具面、Continual Harness CRUD、/refine 可回滚自改、A2A 核家族；README 明确非安全沙箱，适合对照 Hermes skill 门禁。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1232493406,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:07:07Z",
+            "owner": "PrimeIntellect-ai",
+            "repo": "prime-agent",
+            "stars": 18105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AGENTS.md 🌐",
+          "description": "🐙 🛠 开发工具 面向 coding agent 的开放指令格式与规范主页；约定仓库级 AGENTS.md 的职责边界、跨工具兼容（Codex/Jules/Aider/goose 等），是 agent harness 工程的稳定参考源。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1040906383,
+            "language": "TypeScript",
+            "last_commit": "2026-03-12T14:26:14Z",
+            "owner": "agentsmd",
+            "repo": "agents.md",
+            "stars": 23827
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DannyMac180/sol-advisor 🐙",
+          "description": "📬 🛠 开发工具 Codex-native 多 Agent 编码编排插件，把架构、实现和干净上下文复查拆成明确职责，README 对安装、路由证据和验收边界写得具体。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1319336961,
+            "language": "Shell",
+            "last_commit": "2026-08-16T13:24:31Z",
+            "owner": "DannyMac180",
+            "repo": "sol-advisor",
+            "stars": 2328
+          }
+        }
+      ],
+      "title": "🔥 最近收录"
+    },
+    {
+      "description": "官方Blog、工具、YouTube、GitHub源码库 · 18 个源",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Perfetto 🌐",
+          "description": "🐙 Android/Linux 系统级 trace 工具，替代 Systrace 的下一代方案",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 227091502,
+            "language": "C++",
+            "last_commit": "2026-08-24T13:18:49Z",
+            "owner": "google",
+            "repo": "perfetto",
+            "stars": 6379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jetpack Compose 🌐",
+          "description": "🐙 Android 声明式 UI 框架，简化 UI 开发流程",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 256589781,
+            "language": "Kotlin",
+            "last_commit": "2026-08-24T13:52:08Z",
+            "owner": "androidx",
+            "repo": "androidx",
+            "stars": 6068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android GPU Inspector (AGI) 🌐",
+          "description": "🐙 GPU 性能分析工具，用于追踪渲染管线和着色器性能",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 236109124,
+            "language": "Go",
+            "last_commit": "2026-04-13T19:32:30Z",
+            "owner": "google",
+            "repo": "agi",
+            "stars": 1066
+          }
+        }
+      ],
+      "title": "🤖 Android 官方资源"
+    },
+    {
+      "description": "AI 领域精选资源（详见 awesome-ai-field-notes） · 71 个源",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "卡颂 (kasong2048 / Shaoyin Song) 𝕏",
+          "description": "🐙 🌐 verified，前阿里工程师、《React 设计原理》作者，X 聚焦 AI Native CLI 商业模式 / Skill 经济 / Harness Engineering / Agent 开发培训实战，GitHub @camsong 3.9k 粉 + blog 3.6k star + You-Dont-Need-jQuery 20.2k star + areact + nefe/number-precision 4.1k star",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40796986,
+            "language": null,
+            "last_commit": "2023-02-20T05:06:34Z",
+            "owner": "camsong",
+            "repo": "blog",
+            "stars": 3625
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "深度解析 Claude Code 系列 🐙",
+          "description": "42万字 Claude Code 架构深度剖析系列，PDF版本见 lintsinghua/claude-code-book，从 Prompt/Context/Harness 三个维度解析 AI Coding Agent 工程实践",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1197598190,
+            "language": "Python",
+            "last_commit": "2026-08-17T06:10:12Z",
+            "owner": "lintsinghua",
+            "repo": "claude-code-book",
+            "stars": 4126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome AI Field Notes 🌐",
+          "description": "🐙 AI 领域 608 条精选资源，每日更新，覆盖 LLM/Agent/工具链",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1206583125,
+            "language": "Python",
+            "last_commit": "2026-08-24T01:37:48Z",
+            "owner": "Gracker",
+            "repo": "awesome-ai-field-notes",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chopratejas/headroom 🐙",
+          "description": "GitHub Trending 周榜，LLM Token 优化工具，自动压缩上下文以降低 API 成本与延迟",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1129940957,
+            "language": "Python",
+            "last_commit": "2026-08-24T11:04:33Z",
+            "owner": "headroomlabs-ai",
+            "repo": "headroom",
+            "stars": 67364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "supermemoryai/supermemory 🐙",
+          "description": "GitHub Trending 周榜，AI 应用的持久记忆层基础设施，支持跨会话/跨工具的上下文记忆与检索",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 764287615,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:04:51Z",
+            "owner": "supermemoryai",
+            "repo": "supermemory",
+            "stars": 29032
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "revfactory/harness 🐙",
+          "description": "GitHub Trending 周榜，Harness Engineering 工程化框架，模型外层基础设施（工具注册表/护栏/验证等）参考实现",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1193082155,
+            "language": "HTML",
+            "last_commit": "2026-07-24T23:35:08Z",
+            "owner": "revfactory",
+            "repo": "harness",
+            "stars": 8828
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NousResearch/hermes-agent 🐙",
+          "description": "GitHub Trending 周榜，Nous Research 推出的 Hermes Agent 框架，Hermes 系列 LLM 的 Agent 集成方案",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1024554267,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:09:29Z",
+            "owner": "NousResearch",
+            "repo": "hermes-agent",
+            "stars": 235506
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lfnovo/open-notebook 🐙",
+          "description": "GitHub Trending 周榜，开源 AI 笔记本工具，支持多模型接入与本地知识库管理，NotebookLM 开源替代品",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 876286167,
+            "language": "TypeScript",
+            "last_commit": "2026-08-16T14:51:59Z",
+            "owner": "lfnovo",
+            "repo": "open-notebook",
+            "stars": 37517
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EveryInc/compound-engineering-plugin 🐙",
+          "description": "GitHub Trending 周榜，复合工程（Compound Engineering）插件，AI 时代工程实践自动化工具链",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1073224021,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T07:23:59Z",
+            "owner": "EveryInc",
+            "repo": "compound-engineering-plugin",
+            "stars": 24506
+          }
+        }
+      ],
+      "title": "🧠 AI & LLM"
+    },
+    {
+      "description": "性能分析、调试、开发效率工具 · 25 个源",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mattpocock/skills 🐙",
+          "description": "📬 Matt Pocock 日常工程 agent skills 仓库（含 grill-me/grilling 需求对齐 primitive）；小而可组合、跨模型，是 skill 工程与苏格拉底式需求压力测试的稳定源。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1148788086,
+            "language": "Shell",
+            "last_commit": "2026-08-21T10:56:48Z",
+            "owner": "mattpocock",
+            "repo": "skills",
+            "stars": 234904
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prime Agent 🐙",
+          "description": "开源 self-improving RLM coding agent（MIT）：IPython 程序化工具面、Continual Harness CRUD、/refine 可回滚自改、A2A 核家族；README 明确非安全沙箱，适合对照 Hermes skill 门禁。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1232493406,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:07:07Z",
+            "owner": "PrimeIntellect-ai",
+            "repo": "prime-agent",
+            "stars": 18105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AGENTS.md 🌐",
+          "description": "🐙 面向 coding agent 的开放指令格式与规范主页；约定仓库级 AGENTS.md 的职责边界、跨工具兼容（Codex/Jules/Aider/goose 等），是 agent harness 工程的稳定参考源。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1040906383,
+            "language": "TypeScript",
+            "last_commit": "2026-03-12T14:26:14Z",
+            "owner": "agentsmd",
+            "repo": "agents.md",
+            "stars": 23827
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DannyMac180/sol-advisor 🐙",
+          "description": "📬 Codex-native 多 Agent 编码编排插件，把架构、实现和干净上下文复查拆成明确职责，README 对安装、路由证据和验收边界写得具体。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1319336961,
+            "language": "Shell",
+            "last_commit": "2026-08-16T13:24:31Z",
+            "owner": "DannyMac180",
+            "repo": "sol-advisor",
+            "stars": 2328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LeakCanary 🐙",
+          "description": "🌐 Android 内存泄漏检测神器，开发阶段自动发现内存问题",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 34824499,
+            "language": "Kotlin",
+            "last_commit": "2026-08-24T10:00:10Z",
+            "owner": "square",
+            "repo": "leakcanary",
+            "stars": 29984
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Booster 🐙",
+          "description": "滴滴开源的性能优化框架，支持多维度性能检测",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 182968735,
+            "language": "Kotlin",
+            "last_commit": "2026-08-09T00:58:12Z",
+            "owner": "didi",
+            "repo": "booster",
+            "stars": 5069
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Friends-Circle Demo APKs 🐙",
+          "description": "性能功耗测试基准 App，包含启动、切换、列表滑动等场景，配合博客文章使用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 944889641,
+            "language": "Java",
+            "last_commit": "2026-05-26T15:16:37Z",
+            "owner": "Gracker",
+            "repo": "Friends-Circle-Demo-Apks-For-Power-and-Performance-Test",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Friends-Circle Flutter Demo 🐙",
+          "description": "Flutter 版朋友圈性能测试 Demo，对比 Flutter 与原生性能差异",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1029029862,
+            "language": "Dart",
+            "last_commit": "2026-05-26T16:15:54Z",
+            "owner": "Gracker",
+            "repo": "Friends-Circle-Demo-Flutter-Apks-For-Power-and-Performance-Test",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android App Memory Analysis 🐙",
+          "description": "Android 内存分析工具，辅助博客内存优化系列文章",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 250508412,
+            "language": "Python",
+            "last_commit": "2026-08-13T06:34:48Z",
+            "owner": "Gracker",
+            "repo": "Android-App-Memory-Analysis",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TraceFix 🐙",
+          "description": "Android Systrace 插件，基于 ASM 和 Gradle 自动注入 Trace Tag",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 292501978,
+            "language": "Java",
+            "last_commit": "2026-07-16T16:54:18Z",
+            "owner": "Gracker",
+            "repo": "TraceFix",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Perfetto AutoPin for Chrome 🐙",
+          "description": "Chrome 插件，自动 Pin Perfetto 关键事件，提升 Trace 分析效率",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1126217505,
+            "language": "JavaScript",
+            "last_commit": "2026-01-01T12:13:20Z",
+            "owner": "Gracker",
+            "repo": "Perfetto-AutoPin-For-Chrome",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SystraceAnalysis 🐙",
+          "description": "Systrace/FTrace 自动分析工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 248390276,
+            "language": "HTML",
+            "last_commit": "2021-01-21T01:58:02Z",
+            "owner": "Gracker",
+            "repo": "SystraceAnalysis",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PerCetto (olvaffe/percetto) 🐙",
+          "description": "C语言原生Perfetto SDK wrapper，提供完整的Perfetto trace协议支持，是Perfetto生态的核心底层组件，源码质量极高",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 312774887,
+            "language": "C++",
+            "last_commit": "2025-08-28T17:29:56Z",
+            "owner": "olvaffe",
+            "repo": "percetto",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SoloX 🐙",
+          "description": "Android/iOS实时性能采集工具，支持帧率、CPU、内存等多维度指标，跨平台覆盖，适合移动端性能监控场景",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 124478439,
+            "language": "HTML",
+            "last_commit": "2024-09-09T02:25:13Z",
+            "owner": "smart-test-ti",
+            "repo": "SoloX",
+            "stars": 1263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PerfSuite Android 🐙",
+          "description": "Booking.com开源的线上轻量性能指标采集SDK，面向生产环境监控，与Perfetto形成抓取→监控的互补",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 639945082,
+            "language": "Kotlin",
+            "last_commit": "2024-04-24T11:03:46Z",
+            "owner": "bookingcom",
+            "repo": "perfsuite-android",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "perfetto-mcp 🐙",
+          "description": "MCP协议NL→SQL Perfetto分析工具，用自然语言查询trace，开创性地将LLM引入Perfetto分析流程",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1054147333,
+            "language": "Python",
+            "last_commit": "2026-04-10T19:53:04Z",
+            "owner": "antarikshc",
+            "repo": "perfetto-mcp",
+            "stars": 215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "adbutils 🐙",
+          "description": "openatx生态核心Python库，ADB Server协议完整实现，活跃度高，是构建Android自动化工具的基础依赖",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 176463231,
+            "language": "Python",
+            "last_commit": "2026-08-10T02:12:07Z",
+            "owner": "openatx",
+            "repo": "adbutils",
+            "stars": 1071
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "adb_shell 🐙",
+          "description": "纯Python ADB协议实现，支持USB直连模式，提供了adbutils之外的另一种选择，适合无adb binary环境的自动化场景",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 208821897,
+            "language": "Python",
+            "last_commit": "2024-10-29T04:27:51Z",
+            "owner": "JeffLIrion",
+            "repo": "adb_shell",
+            "stars": 607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android Debug MCP 🐙",
+          "description": "MCP 协议的 Android 运行时调试工具，让 AI Agent 直接读写 Activity 栈、View 树、内存快照、logcat 等运行期状态",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1259038549,
+            "language": "Kotlin",
+            "last_commit": "2026-06-04T06:32:16Z",
+            "owner": "lukelmouse-github",
+            "repo": "android-debug-mcp",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "🛠 开发工具"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T05:58:47.084Z",
+    "last_updated": "2026-08-24T14:08:33.057Z",
     "original_repository": "Gracker/awesome-android-ai-dev-sources",
     "original_repository_id": 19644242,
     "original_repository_sha": "5e78afac97756a5aa72370f389677fb7dbad0c89",
