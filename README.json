@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T14:20:17Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 235701
+            "stars": 236998
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 1232493406,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:19:08Z",
+            "last_commit": "2026-08-26T05:15:37Z",
             "owner": "PrimeIntellect-ai",
             "repo": "prime-agent",
-            "stars": 18209
+            "stars": 18472
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 1040906383,
             "language": "TypeScript",
-            "last_commit": "2026-03-12T14:26:14Z",
+            "last_commit": "2026-08-25T16:41:55Z",
             "owner": "agentsmd",
             "repo": "agents.md",
-            "stars": 23857
+            "stars": 23896
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-16T13:24:31Z",
             "owner": "DannyMac180",
             "repo": "sol-advisor",
-            "stars": 2334
+            "stars": 2349
           }
         }
       ],
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 227091502,
             "language": "C++",
-            "last_commit": "2026-08-25T01:40:36Z",
+            "last_commit": "2026-08-26T05:46:24Z",
             "owner": "google",
             "repo": "perfetto",
-            "stars": 6383
+            "stars": 6389
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 256589781,
             "language": "Kotlin",
-            "last_commit": "2026-08-25T05:02:21Z",
+            "last_commit": "2026-08-26T02:13:54Z",
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6068
+            "stars": 6071
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-17T06:10:12Z",
             "owner": "lintsinghua",
             "repo": "claude-code-book",
-            "stars": 4131
+            "stars": 4137
           }
         },
         {
@@ -159,7 +159,7 @@
             "archived": false,
             "id": 1206583125,
             "language": "Python",
-            "last_commit": "2026-08-25T00:33:58Z",
+            "last_commit": "2026-08-26T01:23:42Z",
             "owner": "Gracker",
             "repo": "awesome-ai-field-notes",
             "stars": 3
@@ -174,10 +174,10 @@
             "archived": false,
             "id": 1129940957,
             "language": "Python",
-            "last_commit": "2026-08-24T11:04:33Z",
+            "last_commit": "2026-08-26T04:32:00Z",
             "owner": "headroomlabs-ai",
             "repo": "headroom",
-            "stars": 67471
+            "stars": 67611
           }
         },
         {
@@ -189,10 +189,10 @@
             "archived": false,
             "id": 764287615,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:53:59Z",
+            "last_commit": "2026-08-26T01:55:23Z",
             "owner": "supermemoryai",
             "repo": "supermemory",
-            "stars": 29049
+            "stars": 29068
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-07-24T23:35:08Z",
             "owner": "revfactory",
             "repo": "harness",
-            "stars": 8829
+            "stars": 8835
           }
         },
         {
@@ -219,10 +219,10 @@
             "archived": false,
             "id": 1024554267,
             "language": "Python",
-            "last_commit": "2026-08-25T04:51:46Z",
+            "last_commit": "2026-08-26T05:55:10Z",
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 235966
+            "stars": 236527
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-08-16T14:51:59Z",
             "owner": "lfnovo",
             "repo": "open-notebook",
-            "stars": 37571
+            "stars": 37654
           }
         },
         {
@@ -249,10 +249,10 @@
             "archived": false,
             "id": 1073224021,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:49:39Z",
+            "last_commit": "2026-08-25T22:34:47Z",
             "owner": "EveryInc",
             "repo": "compound-engineering-plugin",
-            "stars": 24518
+            "stars": 24546
           }
         }
       ],
@@ -273,7 +273,7 @@
             "last_commit": "2026-08-24T14:20:17Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 235701
+            "stars": 236998
           }
         },
         {
@@ -285,10 +285,10 @@
             "archived": false,
             "id": 1232493406,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:19:08Z",
+            "last_commit": "2026-08-26T05:15:37Z",
             "owner": "PrimeIntellect-ai",
             "repo": "prime-agent",
-            "stars": 18209
+            "stars": 18472
           }
         },
         {
@@ -300,10 +300,10 @@
             "archived": false,
             "id": 1040906383,
             "language": "TypeScript",
-            "last_commit": "2026-03-12T14:26:14Z",
+            "last_commit": "2026-08-25T16:41:55Z",
             "owner": "agentsmd",
             "repo": "agents.md",
-            "stars": 23857
+            "stars": 23896
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-08-16T13:24:31Z",
             "owner": "DannyMac180",
             "repo": "sol-advisor",
-            "stars": 2334
+            "stars": 2349
           }
         },
         {
@@ -330,10 +330,10 @@
             "archived": false,
             "id": 34824499,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T10:00:10Z",
+            "last_commit": "2026-08-25T21:41:30Z",
             "owner": "square",
             "repo": "leakcanary",
-            "stars": 29985
+            "stars": 29984
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2026-08-09T00:58:12Z",
             "owner": "didi",
             "repo": "booster",
-            "stars": 5069
+            "stars": 5070
           }
         },
         {
@@ -468,7 +468,7 @@
             "last_commit": "2024-09-09T02:25:13Z",
             "owner": "smart-test-ti",
             "repo": "SoloX",
-            "stars": 1263
+            "stars": 1262
           }
         },
         {
@@ -551,7 +551,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:02:02.237Z",
+    "last_updated": "2026-08-26T05:55:15.011Z",
     "original_repository": "Gracker/awesome-android-ai-dev-sources",
     "original_repository_id": 19644242,
     "original_repository_sha": "5e78afac97756a5aa72370f389677fb7dbad0c89",
