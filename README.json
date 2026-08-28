@@ -15,8 +15,9 @@
             "last_commit": "2026-08-24T14:20:17Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 238810
-          }
+            "stars": 240034
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 1232493406,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:37:08Z",
+            "last_commit": "2026-08-28T15:42:41Z",
             "owner": "PrimeIntellect-ai",
             "repo": "prime-agent",
-            "stars": 18781
-          }
+            "stars": 18924
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-08-25T16:41:55Z",
             "owner": "agentsmd",
             "repo": "agents.md",
-            "stars": 23945
-          }
+            "stars": 23966
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2026-08-16T13:24:31Z",
             "owner": "DannyMac180",
             "repo": "sol-advisor",
-            "stars": 2370
-          }
+            "stars": 2376
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         }
       ],
       "title": "🔥 最近收录"
@@ -78,11 +82,12 @@
             "archived": false,
             "id": 227091502,
             "language": "C++",
-            "last_commit": "2026-08-27T16:31:22Z",
+            "last_commit": "2026-08-28T17:23:20Z",
             "owner": "google",
             "repo": "perfetto",
-            "stars": 6402
-          }
+            "stars": 6408
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -93,11 +98,12 @@
             "archived": false,
             "id": 256589781,
             "language": "Kotlin",
-            "last_commit": "2026-08-27T16:27:14Z",
+            "last_commit": "2026-08-28T17:29:20Z",
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6071
-          }
+            "stars": 6072
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "google",
             "repo": "agi",
             "stars": 1066
-          }
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         }
       ],
       "title": "🤖 Android 官方资源"
@@ -133,7 +140,8 @@
             "owner": "camsong",
             "repo": "blog",
             "stars": 3625
-          }
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -147,8 +155,9 @@
             "last_commit": "2026-08-17T06:10:12Z",
             "owner": "lintsinghua",
             "repo": "claude-code-book",
-            "stars": 4145
-          }
+            "stars": 4150
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -159,11 +168,12 @@
             "archived": false,
             "id": 1206583125,
             "language": "Python",
-            "last_commit": "2026-08-27T15:53:17Z",
+            "last_commit": "2026-08-28T15:46:24Z",
             "owner": "Gracker",
             "repo": "awesome-ai-field-notes",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -174,11 +184,12 @@
             "archived": false,
             "id": 1129940957,
             "language": "Python",
-            "last_commit": "2026-08-27T10:01:34Z",
+            "last_commit": "2026-08-28T13:11:43Z",
             "owner": "headroomlabs-ai",
             "repo": "headroom",
-            "stars": 67797
-          }
+            "stars": 67910
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -189,11 +200,12 @@
             "archived": false,
             "id": 764287615,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T20:50:21Z",
+            "last_commit": "2026-08-27T23:38:12Z",
             "owner": "supermemoryai",
             "repo": "supermemory",
-            "stars": 29101
-          }
+            "stars": 29121
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -207,8 +219,9 @@
             "last_commit": "2026-07-24T23:35:08Z",
             "owner": "revfactory",
             "repo": "harness",
-            "stars": 8843
-          }
+            "stars": 8849
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -219,11 +232,12 @@
             "archived": false,
             "id": 1024554267,
             "language": "Python",
-            "last_commit": "2026-08-27T16:31:59Z",
+            "last_commit": "2026-08-28T17:25:45Z",
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 237236
-          }
+            "stars": 237676
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -237,8 +251,9 @@
             "last_commit": "2026-08-16T14:51:59Z",
             "owner": "lfnovo",
             "repo": "open-notebook",
-            "stars": 37734
-          }
+            "stars": 37832
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -249,11 +264,12 @@
             "archived": false,
             "id": 1073224021,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T05:14:17Z",
+            "last_commit": "2026-08-28T04:28:28Z",
             "owner": "EveryInc",
             "repo": "compound-engineering-plugin",
-            "stars": 24597
-          }
+            "stars": 24644
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         }
       ],
       "title": "🧠 AI & LLM"
@@ -273,8 +289,9 @@
             "last_commit": "2026-08-24T14:20:17Z",
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 238810
-          }
+            "stars": 240034
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -285,11 +302,12 @@
             "archived": false,
             "id": 1232493406,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:37:08Z",
+            "last_commit": "2026-08-28T15:42:41Z",
             "owner": "PrimeIntellect-ai",
             "repo": "prime-agent",
-            "stars": 18781
-          }
+            "stars": 18924
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -303,8 +321,9 @@
             "last_commit": "2026-08-25T16:41:55Z",
             "owner": "agentsmd",
             "repo": "agents.md",
-            "stars": 23945
-          }
+            "stars": 23966
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -318,8 +337,9 @@
             "last_commit": "2026-08-16T13:24:31Z",
             "owner": "DannyMac180",
             "repo": "sol-advisor",
-            "stars": 2370
-          }
+            "stars": 2376
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -330,11 +350,12 @@
             "archived": false,
             "id": 34824499,
             "language": "Kotlin",
-            "last_commit": "2026-08-27T14:50:44Z",
+            "last_commit": "2026-08-28T14:41:58Z",
             "owner": "square",
             "repo": "leakcanary",
-            "stars": 29986
-          }
+            "stars": 29987
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "didi",
             "repo": "booster",
             "stars": 5070
-          }
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "Gracker",
             "repo": "Friends-Circle-Demo-Apks-For-Power-and-Performance-Test",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "Gracker",
             "repo": "Friends-Circle-Demo-Flutter-Apks-For-Power-and-Performance-Test",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "Gracker",
             "repo": "Android-App-Memory-Analysis",
             "stars": 181
-          }
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -409,7 +434,8 @@
             "owner": "Gracker",
             "repo": "TraceFix",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -424,7 +450,8 @@
             "owner": "Gracker",
             "repo": "Perfetto-AutoPin-For-Chrome",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -439,7 +466,8 @@
             "owner": "Gracker",
             "repo": "SystraceAnalysis",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "olvaffe",
             "repo": "percetto",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -469,7 +498,8 @@
             "owner": "smart-test-ti",
             "repo": "SoloX",
             "stars": 1262
-          }
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -484,7 +514,8 @@
             "owner": "bookingcom",
             "repo": "perfsuite-android",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -499,7 +530,8 @@
             "owner": "antarikshc",
             "repo": "perfetto-mcp",
             "stars": 216
-          }
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -513,8 +545,9 @@
             "last_commit": "2026-08-10T02:12:07Z",
             "owner": "openatx",
             "repo": "adbutils",
-            "stars": 1071
-          }
+            "stars": 1072
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -529,7 +562,8 @@
             "owner": "JeffLIrion",
             "repo": "adb_shell",
             "stars": 607
-          }
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         },
         {
           "node_type": "item",
@@ -544,14 +578,15 @@
             "owner": "lukelmouse-github",
             "repo": "android-debug-mcp",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T17:30:23.898Z"
         }
       ],
       "title": "🛠 开发工具"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:35:04.755Z",
+    "last_updated": "2026-08-28T17:30:23.898Z",
     "original_repository_info": {
       "archived": false,
       "id": 19644242,
