@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Skills for Real Engineers. Straight from my .agents directory.",
+            "homepage": "https://aihero.dev/skills",
             "id": 1148788086,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-24T14:20:17Z",
+            "open_issues": 437,
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 240034
+            "stars": 240331,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+            "homepage": null,
             "id": 1232493406,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T15:42:41Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:17:07Z",
+            "open_issues": 81,
             "owner": "PrimeIntellect-ai",
             "repo": "prime-agent",
-            "stars": 18924
+            "stars": 18974,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AGENTS.md — a simple, open format for guiding coding agents",
+            "homepage": "https://agents.md",
             "id": 1040906383,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T16:41:55Z",
+            "open_issues": 169,
             "owner": "agentsmd",
             "repo": "agents.md",
-            "stars": 23966
+            "stars": 23970,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+            "homepage": null,
             "id": 1319336961,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-16T13:24:31Z",
+            "open_issues": 25,
             "owner": "DannyMac180",
             "repo": "sol-advisor",
-            "stars": 2376
+            "stars": 2380,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         }
@@ -80,12 +100,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Production-grade client-side tracing, profiling, and analysis for complex software systems.",
+            "homepage": "https://www.perfetto.dev",
             "id": 227091502,
             "language": "C++",
-            "last_commit": "2026-08-28T17:23:20Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:43:13Z",
+            "open_issues": 296,
             "owner": "google",
             "repo": "perfetto",
-            "stars": 6408
+            "stars": 6408,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -96,12 +121,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.",
+            "homepage": "https://android.googlesource.com/platform/frameworks/support",
             "id": 256589781,
             "language": "Kotlin",
-            "last_commit": "2026-08-28T17:29:20Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:26:29Z",
+            "open_issues": 57,
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6072
+            "stars": 6072,
+            "topics": [
+              "android",
+              "jetpack",
+              "library"
+            ]
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -112,12 +146,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android GPU Inspector",
+            "homepage": "https://gpuinspector.dev",
             "id": 236109124,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-13T19:32:30Z",
+            "open_issues": 68,
             "owner": "google",
             "repo": "agi",
-            "stars": 1066
+            "stars": 1066,
+            "topics": [
+              "android",
+              "debugger",
+              "gpu",
+              "graphics",
+              "linux",
+              "macos",
+              "profiler",
+              "replay",
+              "trace",
+              "vulkan",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         }
@@ -134,12 +185,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✍️Front-end Development Thoughts",
+            "homepage": null,
             "id": 40796986,
             "language": null,
+            "license": null,
             "last_commit": "2023-02-20T05:06:34Z",
+            "open_issues": 13,
             "owner": "camsong",
             "repo": "blog",
-            "stars": 3625
+            "stars": 3625,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -150,12 +206,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "《御舆：解码 Agent Harness》42万字拆解 AI Agent 的Harness骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网站：",
+            "homepage": "https://lintsinghua.github.io",
             "id": 1197598190,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-17T06:10:12Z",
+            "open_issues": 16,
             "owner": "lintsinghua",
             "repo": "claude-code-book",
-            "stars": 4150
+            "stars": 4150,
+            "topics": [
+              "agent",
+              "agent-architecture",
+              "ai-agent",
+              "anthropic",
+              "book",
+              "chinese",
+              "claude-code",
+              "llm",
+              "mcp"
+            ]
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -166,12 +237,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1206583125,
             "language": "Python",
-            "last_commit": "2026-08-28T15:46:24Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T00:34:48Z",
+            "open_issues": 1,
             "owner": "Gracker",
             "repo": "awesome-ai-field-notes",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -182,12 +258,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+            "homepage": "https://docs.headroomlabs.ai/docs",
             "id": 1129940957,
             "language": "Python",
-            "last_commit": "2026-08-28T13:11:43Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:51:00Z",
+            "open_issues": 571,
             "owner": "headroomlabs-ai",
             "repo": "headroom",
-            "stars": 67910
+            "stars": 67939,
+            "topics": [
+              "agent",
+              "ai",
+              "anthropic",
+              "claude-code",
+              "compression",
+              "context-engineering",
+              "context-window",
+              "cursor",
+              "fastapi",
+              "langchain",
+              "llm",
+              "mcp",
+              "openai",
+              "prompt-engineering",
+              "proxy",
+              "python",
+              "rag",
+              "token-optimization",
+              "tokens",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -198,12 +300,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+            "homepage": "https://supermemory.ai/docs",
             "id": 764287615,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T23:38:12Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:19:24Z",
+            "open_issues": 176,
             "owner": "supermemoryai",
             "repo": "supermemory",
-            "stars": 29121
+            "stars": 29126,
+            "topics": [
+              "agent-memory",
+              "ai-memory",
+              "cloudflare-kv",
+              "cloudflare-pages",
+              "cloudflare-workers",
+              "drizzle-orm",
+              "memory",
+              "postgres",
+              "remix",
+              "tailwindcss",
+              "typescript",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -214,12 +334,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+            "homepage": "https://revfactory.github.io/harness/",
             "id": 1193082155,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-24T23:35:08Z",
+            "open_issues": 28,
             "owner": "revfactory",
             "repo": "harness",
-            "stars": 8849
+            "stars": 8852,
+            "topics": [
+              "claude-code",
+              "claude-code-plugin",
+              "harness",
+              "harness-engineering"
+            ]
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -230,12 +360,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The agent that grows with you",
+            "homepage": "https://hermes-agent.nousresearch.com",
             "id": 1024554267,
             "language": "Python",
-            "last_commit": "2026-08-28T17:25:45Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:25:28Z",
+            "open_issues": 37192,
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 237676
+            "stars": 237798,
+            "topics": [
+              "ai",
+              "ai-agent",
+              "ai-agents",
+              "anthropic",
+              "chatgpt",
+              "claude",
+              "claude-code",
+              "codex",
+              "hermes",
+              "hermes-agent",
+              "llm",
+              "nous-research",
+              "openai"
+            ]
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -246,12 +395,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+            "homepage": "https://www.open-notebook.ai",
             "id": 876286167,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-16T14:51:59Z",
+            "open_issues": 142,
             "owner": "lfnovo",
             "repo": "open-notebook",
-            "stars": 37832
+            "stars": 37852,
+            "topics": [
+              "assistant",
+              "learning",
+              "note-taking",
+              "notebook",
+              "notes-app",
+              "self-learning"
+            ]
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -262,12 +423,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+            "homepage": "https://every.to/guides/compound-engineering",
             "id": 1073224021,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T04:28:28Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:26:42Z",
+            "open_issues": 95,
             "owner": "EveryInc",
             "repo": "compound-engineering-plugin",
-            "stars": 24644
+            "stars": 24659,
+            "topics": [
+              "compound",
+              "engineering"
+            ]
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         }
@@ -284,12 +453,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Skills for Real Engineers. Straight from my .agents directory.",
+            "homepage": "https://aihero.dev/skills",
             "id": 1148788086,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-24T14:20:17Z",
+            "open_issues": 437,
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 240034
+            "stars": 240331,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -300,12 +474,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+            "homepage": null,
             "id": 1232493406,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T15:42:41Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:17:07Z",
+            "open_issues": 81,
             "owner": "PrimeIntellect-ai",
             "repo": "prime-agent",
-            "stars": 18924
+            "stars": 18974,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -316,12 +495,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AGENTS.md — a simple, open format for guiding coding agents",
+            "homepage": "https://agents.md",
             "id": 1040906383,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T16:41:55Z",
+            "open_issues": 169,
             "owner": "agentsmd",
             "repo": "agents.md",
-            "stars": 23966
+            "stars": 23970,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -332,12 +516,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+            "homepage": null,
             "id": 1319336961,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-16T13:24:31Z",
+            "open_issues": 25,
             "owner": "DannyMac180",
             "repo": "sol-advisor",
-            "stars": 2376
+            "stars": 2380,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -348,12 +537,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A memory leak detection library for Android.",
+            "homepage": "https://square.github.io/leakcanary",
             "id": 34824499,
             "language": "Kotlin",
-            "last_commit": "2026-08-28T14:41:58Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:00:36Z",
+            "open_issues": 131,
             "owner": "square",
             "repo": "leakcanary",
-            "stars": 29987
+            "stars": 29987,
+            "topics": [
+              "android",
+              "java",
+              "kotlin",
+              "kotlin-android",
+              "leak-canary",
+              "leak-trace",
+              "leakcanary",
+              "memory-leak",
+              "outofmemory",
+              "outofmemoryerror"
+            ]
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -364,12 +569,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀Optimizer for mobile applications",
+            "homepage": "https://booster.johnsonlee.io",
             "id": 182968735,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-09T00:58:12Z",
+            "open_issues": 52,
             "owner": "didi",
             "repo": "booster",
-            "stars": 5070
+            "stars": 5070,
+            "topics": [
+              "android",
+              "bytecode-manipulation",
+              "gradle-plugin",
+              "optimizer",
+              "static-analysis"
+            ]
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -380,12 +596,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "用来测试 Performance 和 Power 的基准 App，包含各种技术实现。主要是用来测试 App 启动、App Switch、App 列表滑动性能。",
+            "homepage": null,
             "id": 944889641,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-05-26T15:16:37Z",
+            "open_issues": 8,
             "owner": "Gracker",
             "repo": "Friends-Circle-Demo-Apks-For-Power-and-Performance-Test",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "performance",
+              "performance-testing"
+            ]
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -396,12 +620,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1029029862,
             "language": "Dart",
+            "license": null,
             "last_commit": "2026-05-26T16:15:54Z",
+            "open_issues": 0,
             "owner": "Gracker",
             "repo": "Friends-Circle-Demo-Flutter-Apks-For-Power-and-Performance-Test",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -412,12 +641,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 250508412,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-13T06:34:48Z",
+            "open_issues": 0,
             "owner": "Gracker",
             "repo": "Android-App-Memory-Analysis",
-            "stars": 181
+            "stars": 181,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -428,12 +662,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build-time Android bytecode instrumentation that adds runtime Trace sections for Perfetto analysis.",
+            "homepage": null,
             "id": 292501978,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-07-16T16:54:18Z",
+            "open_issues": 0,
             "owner": "Gracker",
             "repo": "TraceFix",
-            "stars": 123
+            "stars": 123,
+            "topics": [
+              "android-performance",
+              "bytecode-instrumentation",
+              "perfetto"
+            ]
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -444,12 +687,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a chrome plugin for perfetto auto pin",
+            "homepage": null,
             "id": 1126217505,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-01-01T12:13:20Z",
+            "open_issues": 0,
             "owner": "Gracker",
             "repo": "Perfetto-AutoPin-For-Chrome",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -460,12 +708,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a tool to analysis systrace/ftrace",
+            "homepage": null,
             "id": 248390276,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2021-01-21T01:58:02Z",
+            "open_issues": 0,
             "owner": "Gracker",
             "repo": "SystraceAnalysis",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -476,12 +729,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 312774887,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-28T17:29:56Z",
+            "open_issues": 8,
             "owner": "olvaffe",
             "repo": "percetto",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -492,12 +750,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💯SoloX - Real-time collection tool for Android/iOS performance data.（Android性能测试android performance\\iOS性能测试ios performance\\移动端性能测试mobile performance\\APP性能测试app performance\\app性能测试工具）",
+            "homepage": "https://smart-test-ti.github.io/solox",
             "id": 124478439,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-09-09T02:25:13Z",
+            "open_issues": 86,
             "owner": "smart-test-ti",
             "repo": "SoloX",
-            "stars": 1262
+            "stars": 1262,
+            "topics": [
+              "android-performance",
+              "battery",
+              "cpu",
+              "fps",
+              "ios-performance",
+              "jank",
+              "memory",
+              "network",
+              "performance-testing"
+            ]
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -508,12 +781,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight Android library for collecting basic app performance metrics",
+            "homepage": null,
             "id": 639945082,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-24T11:03:46Z",
+            "open_issues": 3,
             "owner": "bookingcom",
             "repo": "perfsuite-android",
-            "stars": 146
+            "stars": 146,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -524,12 +802,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a Model Context Protocol (MCP) server that gets answers from your Perfetto Traces. It turns natural‑language prompts into focused Perfetto analyses.",
+            "homepage": null,
             "id": 1054147333,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-10T19:53:04Z",
+            "open_issues": 6,
             "owner": "antarikshc",
             "repo": "perfetto-mcp",
-            "stars": 216
+            "stars": 216,
+            "topics": [
+              "android-tracing",
+              "mcp",
+              "model-context-protocol",
+              "perfetto"
+            ]
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -540,12 +828,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pure python adb library for google adb service.",
+            "homepage": null,
             "id": 176463231,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-10T02:12:07Z",
+            "open_issues": 23,
             "owner": "openatx",
             "repo": "adbutils",
-            "stars": 1072
+            "stars": 1072,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -556,12 +849,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python implementation of ADB with shell and FileSync functionality.",
+            "homepage": null,
             "id": 208821897,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-29T04:27:51Z",
+            "open_issues": 31,
             "owner": "JeffLIrion",
             "repo": "adb_shell",
-            "stars": 607
+            "stars": 607,
+            "topics": [
+              "adb",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         },
@@ -572,12 +873,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "android-debug-mcp",
+            "homepage": null,
             "id": 1259038549,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2026-06-04T06:32:16Z",
+            "open_issues": 0,
             "owner": "lukelmouse-github",
             "repo": "android-debug-mcp",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
         }
@@ -586,15 +892,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:30:23.898Z",
+    "last_updated": "2026-08-29T04:26:11.869Z",
     "original_repository_info": {
       "archived": false,
+      "description": "这个项目记录了个人订阅的一些科技人的Blog地址,欢迎大家推荐,一起来完善! 欢迎自荐......",
+      "homepage": "http://androidperformance.com/awesome-android-ai-dev-sources/",
       "id": 19644242,
       "language": "Python",
+      "license": null,
       "last_commit": "2026-08-09T09:08:15Z",
+      "open_issues": 14,
       "owner": "Gracker",
       "repo": "awesome-android-ai-dev-sources",
-      "stars": 1894
+      "stars": 1895,
+      "topics": []
     },
     "original_repository_sha": "5e78afac97756a5aa72370f389677fb7dbad0c89",
     "enhanced_repository": "enhansome/enhansome-android-ai-dev-sources",
