@@ -16,10 +16,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-09-04T08:45:43Z",
-            "open_issues": 487,
+            "open_issues": 490,
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 259256,
+            "stars": 260070,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -36,11 +36,11 @@
             "id": 1232493406,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T09:32:16Z",
-            "open_issues": 131,
+            "last_commit": "2026-09-12T09:21:14Z",
+            "open_issues": 137,
             "owner": "PrimeIntellect-ai",
             "repo": "prime-agent",
-            "stars": 20535,
+            "stars": 20581,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -61,7 +61,7 @@
             "open_issues": 172,
             "owner": "agentsmd",
             "repo": "agents.md",
-            "stars": 24282,
+            "stars": 24300,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -82,7 +82,7 @@
             "open_issues": 27,
             "owner": "DannyMac180",
             "repo": "sol-advisor",
-            "stars": 2576,
+            "stars": 2586,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -105,11 +105,11 @@
             "id": 227091502,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T09:43:14Z",
-            "open_issues": 299,
+            "last_commit": "2026-09-11T22:25:42Z",
+            "open_issues": 303,
             "owner": "google",
             "repo": "perfetto",
-            "stars": 6473,
+            "stars": 6477,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -126,7 +126,7 @@
             "id": 256589781,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T09:30:23Z",
+            "last_commit": "2026-09-12T00:02:18Z",
             "open_issues": 58,
             "owner": "androidx",
             "repo": "androidx",
@@ -242,7 +242,7 @@
             "id": 1206583125,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T00:33:08Z",
+            "last_commit": "2026-09-12T00:33:15Z",
             "open_issues": 1,
             "owner": "Gracker",
             "repo": "awesome-ai-field-notes",
@@ -263,11 +263,11 @@
             "id": 1129940957,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T18:16:40Z",
-            "open_issues": 648,
+            "last_commit": "2026-09-12T03:43:31Z",
+            "open_issues": 636,
             "owner": "headroomlabs-ai",
             "repo": "headroom",
-            "stars": 71481,
+            "stars": 71652,
             "topics": [
               "agent",
               "ai",
@@ -305,11 +305,11 @@
             "id": 764287615,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T06:01:32Z",
-            "open_issues": 93,
+            "last_commit": "2026-09-11T18:23:37Z",
+            "open_issues": 94,
             "owner": "supermemoryai",
             "repo": "supermemory",
-            "stars": 29621,
+            "stars": 29636,
             "topics": [
               "agent-memory",
               "ai-memory",
@@ -343,7 +343,7 @@
             "open_issues": 21,
             "owner": "revfactory",
             "repo": "harness",
-            "stars": 8956,
+            "stars": 8966,
             "topics": [
               "claude-code",
               "claude-code-plugin",
@@ -365,11 +365,11 @@
             "id": 1024554267,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-11T09:38:24Z",
-            "open_issues": 41866,
+            "last_commit": "2026-09-12T09:02:23Z",
+            "open_issues": 42257,
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 244382,
+            "stars": 244736,
             "topics": [
               "ai",
               "ai-agent",
@@ -401,10 +401,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-11T01:24:00Z",
-            "open_issues": 110,
+            "open_issues": 112,
             "owner": "lfnovo",
             "repo": "open-notebook",
-            "stars": 38561,
+            "stars": 38612,
             "topics": [
               "assistant",
               "learning",
@@ -428,11 +428,11 @@
             "id": 1073224021,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T05:51:52Z",
-            "open_issues": 102,
+            "last_commit": "2026-09-12T08:27:38Z",
+            "open_issues": 101,
             "owner": "EveryInc",
             "repo": "compound-engineering-plugin",
-            "stars": 25015,
+            "stars": 25032,
             "topics": [
               "compound",
               "engineering"
@@ -459,10 +459,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-09-04T08:45:43Z",
-            "open_issues": 487,
+            "open_issues": 490,
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 259256,
+            "stars": 260070,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -479,11 +479,11 @@
             "id": 1232493406,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T09:32:16Z",
-            "open_issues": 131,
+            "last_commit": "2026-09-12T09:21:14Z",
+            "open_issues": 137,
             "owner": "PrimeIntellect-ai",
             "repo": "prime-agent",
-            "stars": 20535,
+            "stars": 20581,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -504,7 +504,7 @@
             "open_issues": 172,
             "owner": "agentsmd",
             "repo": "agents.md",
-            "stars": 24282,
+            "stars": 24300,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -525,7 +525,7 @@
             "open_issues": 27,
             "owner": "DannyMac180",
             "repo": "sol-advisor",
-            "stars": 2576,
+            "stars": 2586,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -543,10 +543,10 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-08-31T14:51:18Z",
-            "open_issues": 134,
+            "open_issues": 133,
             "owner": "square",
             "repo": "leakcanary",
-            "stars": 29996,
+            "stars": 29995,
             "topics": [
               "android",
               "java",
@@ -756,7 +756,7 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2024-09-09T02:25:13Z",
-            "open_issues": 86,
+            "open_issues": 85,
             "owner": "smart-test-ti",
             "repo": "SoloX",
             "stars": 1264,
@@ -892,7 +892,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T09:51:22.526Z",
+    "last_updated": "2026-09-12T09:27:41.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个项目记录了个人订阅的一些科技人的Blog地址,欢迎大家推荐,一起来完善! 欢迎自荐......",
@@ -904,7 +904,7 @@
       "open_issues": 15,
       "owner": "Gracker",
       "repo": "awesome-android-ai-dev-sources",
-      "stars": 1899,
+      "stars": 1898,
       "topics": []
     },
     "original_repository_sha": "5e78afac97756a5aa72370f389677fb7dbad0c89",
