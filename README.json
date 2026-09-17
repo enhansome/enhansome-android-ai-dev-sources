@@ -15,11 +15,11 @@
             "id": 1148788086,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-15T14:29:06Z",
-            "open_issues": 498,
+            "last_commit": "2026-09-17T10:06:00Z",
+            "open_issues": 502,
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 263199,
+            "stars": 263946,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -36,11 +36,11 @@
             "id": 1232493406,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T09:49:50Z",
-            "open_issues": 124,
+            "last_commit": "2026-09-17T10:07:39Z",
+            "open_issues": 73,
             "owner": "PrimeIntellect-ai",
             "repo": "prime-agent",
-            "stars": 20881,
+            "stars": 20945,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -61,7 +61,7 @@
             "open_issues": 176,
             "owner": "agentsmd",
             "repo": "agents.md",
-            "stars": 24404,
+            "stars": 24423,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -82,7 +82,7 @@
             "open_issues": 27,
             "owner": "DannyMac180",
             "repo": "sol-advisor",
-            "stars": 2591,
+            "stars": 2592,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -105,11 +105,11 @@
             "id": 227091502,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T09:59:36Z",
-            "open_issues": 309,
+            "last_commit": "2026-09-17T09:51:25Z",
+            "open_issues": 303,
             "owner": "google",
             "repo": "perfetto",
-            "stars": 6507,
+            "stars": 6516,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -126,11 +126,11 @@
             "id": 256589781,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T08:26:15Z",
+            "last_commit": "2026-09-17T09:28:47Z",
             "open_issues": 58,
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6093,
+            "stars": 6094,
             "topics": [
               "android",
               "jetpack",
@@ -215,7 +215,7 @@
             "open_issues": 9,
             "owner": "lintsinghua",
             "repo": "claude-code-book",
-            "stars": 4244,
+            "stars": 4247,
             "topics": [
               "agent",
               "agent-architecture",
@@ -242,7 +242,7 @@
             "id": 1206583125,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T00:33:28Z",
+            "last_commit": "2026-09-17T00:32:47Z",
             "open_issues": 1,
             "owner": "Gracker",
             "repo": "awesome-ai-field-notes",
@@ -263,11 +263,11 @@
             "id": 1129940957,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T02:23:53Z",
-            "open_issues": 656,
+            "last_commit": "2026-09-17T07:30:06Z",
+            "open_issues": 670,
             "owner": "headroomlabs-ai",
             "repo": "headroom",
-            "stars": 72385,
+            "stars": 72608,
             "topics": [
               "agent",
               "ai",
@@ -305,11 +305,11 @@
             "id": 764287615,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T18:02:22Z",
-            "open_issues": 100,
+            "last_commit": "2026-09-17T08:57:09Z",
+            "open_issues": 101,
             "owner": "supermemoryai",
             "repo": "supermemory",
-            "stars": 29686,
+            "stars": 29854,
             "topics": [
               "agent-memory",
               "ai-memory",
@@ -343,7 +343,7 @@
             "open_issues": 21,
             "owner": "revfactory",
             "repo": "harness",
-            "stars": 8999,
+            "stars": 9010,
             "topics": [
               "claude-code",
               "claude-code-plugin",
@@ -365,11 +365,11 @@
             "id": 1024554267,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-16T10:02:15Z",
-            "open_issues": 43365,
+            "last_commit": "2026-09-17T10:03:34Z",
+            "open_issues": 43712,
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 246014,
+            "stars": 246353,
             "topics": [
               "ai",
               "ai-agent",
@@ -404,7 +404,7 @@
             "open_issues": 113,
             "owner": "lfnovo",
             "repo": "open-notebook",
-            "stars": 38971,
+            "stars": 39049,
             "topics": [
               "assistant",
               "learning",
@@ -429,10 +429,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-16T03:25:42Z",
-            "open_issues": 103,
+            "open_issues": 107,
             "owner": "EveryInc",
             "repo": "compound-engineering-plugin",
-            "stars": 25100,
+            "stars": 25125,
             "topics": [
               "compound",
               "engineering"
@@ -458,11 +458,11 @@
             "id": 1148788086,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-15T14:29:06Z",
-            "open_issues": 498,
+            "last_commit": "2026-09-17T10:06:00Z",
+            "open_issues": 502,
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 263199,
+            "stars": 263946,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -479,11 +479,11 @@
             "id": 1232493406,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T09:49:50Z",
-            "open_issues": 124,
+            "last_commit": "2026-09-17T10:07:39Z",
+            "open_issues": 73,
             "owner": "PrimeIntellect-ai",
             "repo": "prime-agent",
-            "stars": 20881,
+            "stars": 20945,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -504,7 +504,7 @@
             "open_issues": 176,
             "owner": "agentsmd",
             "repo": "agents.md",
-            "stars": 24404,
+            "stars": 24423,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -525,7 +525,7 @@
             "open_issues": 27,
             "owner": "DannyMac180",
             "repo": "sol-advisor",
-            "stars": 2591,
+            "stars": 2592,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -546,7 +546,7 @@
             "open_issues": 134,
             "owner": "square",
             "repo": "leakcanary",
-            "stars": 29995,
+            "stars": 29994,
             "topics": [
               "android",
               "java",
@@ -811,7 +811,7 @@
             "open_issues": 6,
             "owner": "antarikshc",
             "repo": "perfetto-mcp",
-            "stars": 219,
+            "stars": 220,
             "topics": [
               "android-tracing",
               "mcp",
@@ -892,7 +892,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T10:04:59.110Z",
+    "last_updated": "2026-09-17T10:08:15.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个项目记录了个人订阅的一些科技人的Blog地址,欢迎大家推荐,一起来完善! 欢迎自荐......",
@@ -904,7 +904,7 @@
       "open_issues": 15,
       "owner": "Gracker",
       "repo": "awesome-android-ai-dev-sources",
-      "stars": 1899,
+      "stars": 1898,
       "topics": []
     },
     "original_repository_sha": "5e78afac97756a5aa72370f389677fb7dbad0c89",
