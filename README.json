@@ -15,11 +15,11 @@
             "id": 1148788086,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-05T12:04:32Z",
-            "open_issues": 555,
+            "last_commit": "2026-10-06T10:57:11Z",
+            "open_issues": 556,
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 277408,
+            "stars": 277486,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -40,7 +40,7 @@
             "open_issues": 111,
             "owner": "PrimeIntellect-ai",
             "repo": "prime-agent",
-            "stars": 21565,
+            "stars": 21566,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -105,8 +105,8 @@
             "id": 227091502,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T10:17:12Z",
-            "open_issues": 351,
+            "last_commit": "2026-10-06T12:01:06Z",
+            "open_issues": 353,
             "owner": "google",
             "repo": "perfetto",
             "stars": 6598,
@@ -126,7 +126,7 @@
             "id": 256589781,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T10:21:50Z",
+            "last_commit": "2026-10-06T11:47:46Z",
             "open_issues": 61,
             "owner": "androidx",
             "repo": "androidx",
@@ -267,7 +267,7 @@
             "open_issues": 416,
             "owner": "headroomlabs-ai",
             "repo": "headroom",
-            "stars": 74473,
+            "stars": 74480,
             "topics": [
               "agent",
               "ai",
@@ -305,11 +305,11 @@
             "id": 764287615,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T07:49:17Z",
-            "open_issues": 103,
+            "last_commit": "2026-10-06T11:41:18Z",
+            "open_issues": 104,
             "owner": "supermemoryai",
             "repo": "supermemory",
-            "stars": 31105,
+            "stars": 31109,
             "topics": [
               "agent-memory",
               "ai-memory",
@@ -365,11 +365,11 @@
             "id": 1024554267,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-06T10:16:58Z",
-            "open_issues": 48047,
+            "last_commit": "2026-10-06T12:05:59Z",
+            "open_issues": 48067,
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 251543,
+            "stars": 251563,
             "topics": [
               "ai",
               "ai-agent",
@@ -404,7 +404,7 @@
             "open_issues": 147,
             "owner": "lfnovo",
             "repo": "open-notebook",
-            "stars": 39856,
+            "stars": 39859,
             "topics": [
               "assistant",
               "learning",
@@ -432,7 +432,7 @@
             "open_issues": 120,
             "owner": "EveryInc",
             "repo": "compound-engineering-plugin",
-            "stars": 25402,
+            "stars": 25403,
             "topics": [
               "compound",
               "engineering"
@@ -458,11 +458,11 @@
             "id": 1148788086,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-05T12:04:32Z",
-            "open_issues": 555,
+            "last_commit": "2026-10-06T10:57:11Z",
+            "open_issues": 556,
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 277408,
+            "stars": 277486,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -483,7 +483,7 @@
             "open_issues": 111,
             "owner": "PrimeIntellect-ai",
             "repo": "prime-agent",
-            "stars": 21565,
+            "stars": 21566,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -578,7 +578,7 @@
             "open_issues": 52,
             "owner": "didi",
             "repo": "booster",
-            "stars": 5075,
+            "stars": 5076,
             "topics": [
               "android",
               "bytecode-manipulation",
@@ -892,7 +892,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:25:56.707Z",
+    "last_updated": "2026-10-06T12:06:18.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个项目记录了个人订阅的一些科技人的Blog地址,欢迎大家推荐,一起来完善! 欢迎自荐......",
