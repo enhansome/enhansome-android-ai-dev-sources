@@ -15,11 +15,11 @@
             "id": 1148788086,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-05T10:40:01Z",
-            "open_issues": 219,
+            "last_commit": "2026-11-09T14:03:07Z",
+            "open_issues": 227,
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 318134,
+            "stars": 319238,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -36,11 +36,11 @@
             "id": 1232493406,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-08T10:52:43Z",
+            "last_commit": "2026-11-09T09:45:28Z",
             "open_issues": 167,
             "owner": "PrimeIntellect-ai",
             "repo": "prime-agent",
-            "stars": 22618,
+            "stars": 22633,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -61,7 +61,7 @@
             "open_issues": 189,
             "owner": "agentsmd",
             "repo": "agents.md",
-            "stars": 25392,
+            "stars": 25408,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -82,7 +82,7 @@
             "open_issues": 28,
             "owner": "DannyMac180",
             "repo": "sol-advisor",
-            "stars": 2610,
+            "stars": 2611,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -105,8 +105,8 @@
             "id": 227091502,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-08T08:49:20Z",
-            "open_issues": 421,
+            "last_commit": "2026-11-09T13:08:37Z",
+            "open_issues": 436,
             "owner": "google",
             "repo": "perfetto",
             "stars": 6774,
@@ -126,11 +126,11 @@
             "id": 256589781,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T22:48:41Z",
+            "last_commit": "2026-11-09T13:33:12Z",
             "open_issues": 63,
             "owner": "androidx",
             "repo": "androidx",
-            "stars": 6130,
+            "stars": 6131,
             "topics": [
               "android",
               "jetpack",
@@ -155,7 +155,7 @@
             "open_issues": 68,
             "owner": "google",
             "repo": "agi",
-            "stars": 1077,
+            "stars": 1078,
             "topics": [
               "android",
               "debugger",
@@ -242,7 +242,7 @@
             "id": 1206583125,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-08T00:33:10Z",
+            "last_commit": "2026-11-09T00:33:37Z",
             "open_issues": 1,
             "owner": "Gracker",
             "repo": "awesome-ai-field-notes",
@@ -263,11 +263,11 @@
             "id": 1129940957,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-08T05:42:53Z",
-            "open_issues": 264,
+            "last_commit": "2026-11-09T06:35:45Z",
+            "open_issues": 271,
             "owner": "headroomlabs-ai",
             "repo": "headroom",
-            "stars": 79120,
+            "stars": 79210,
             "topics": [
               "agent",
               "ai",
@@ -309,7 +309,7 @@
             "open_issues": 50,
             "owner": "supermemoryai",
             "repo": "supermemory",
-            "stars": 31565,
+            "stars": 31570,
             "topics": [
               "agent-memory",
               "ai-memory",
@@ -343,7 +343,7 @@
             "open_issues": 3,
             "owner": "revfactory",
             "repo": "harness",
-            "stars": 9337,
+            "stars": 9342,
             "topics": [
               "claude-code",
               "claude-code-plugin",
@@ -365,11 +365,11 @@
             "id": 1024554267,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-08T11:47:12Z",
-            "open_issues": 53674,
+            "last_commit": "2026-11-09T13:51:08Z",
+            "open_issues": 53764,
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 261615,
+            "stars": 261959,
             "topics": [
               "ai",
               "ai-agent",
@@ -400,11 +400,11 @@
             "id": 876286167,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-08T10:55:42Z",
-            "open_issues": 185,
+            "last_commit": "2026-11-08T21:47:02Z",
+            "open_issues": 188,
             "owner": "lfnovo",
             "repo": "open-notebook",
-            "stars": 41756,
+            "stars": 41792,
             "topics": [
               "assistant",
               "learning",
@@ -428,11 +428,11 @@
             "id": 1073224021,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-08T06:07:16Z",
-            "open_issues": 95,
+            "last_commit": "2026-11-09T09:25:17Z",
+            "open_issues": 96,
             "owner": "EveryInc",
             "repo": "compound-engineering-plugin",
-            "stars": 25982,
+            "stars": 26000,
             "topics": [
               "compound",
               "engineering"
@@ -458,11 +458,11 @@
             "id": 1148788086,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-05T10:40:01Z",
-            "open_issues": 219,
+            "last_commit": "2026-11-09T14:03:07Z",
+            "open_issues": 227,
             "owner": "mattpocock",
             "repo": "skills",
-            "stars": 318134,
+            "stars": 319238,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -479,11 +479,11 @@
             "id": 1232493406,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-08T10:52:43Z",
+            "last_commit": "2026-11-09T09:45:28Z",
             "open_issues": 167,
             "owner": "PrimeIntellect-ai",
             "repo": "prime-agent",
-            "stars": 22618,
+            "stars": 22633,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -504,7 +504,7 @@
             "open_issues": 189,
             "owner": "agentsmd",
             "repo": "agents.md",
-            "stars": 25392,
+            "stars": 25408,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -525,7 +525,7 @@
             "open_issues": 28,
             "owner": "DannyMac180",
             "repo": "sol-advisor",
-            "stars": 2610,
+            "stars": 2611,
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
@@ -546,7 +546,7 @@
             "open_issues": 132,
             "owner": "square",
             "repo": "leakcanary",
-            "stars": 30006,
+            "stars": 30005,
             "topics": [
               "android",
               "java",
@@ -578,7 +578,7 @@
             "open_issues": 52,
             "owner": "didi",
             "repo": "booster",
-            "stars": 5077,
+            "stars": 5075,
             "topics": [
               "android",
               "bytecode-manipulation",
@@ -886,13 +886,55 @@
             "topics": []
           },
           "first_seen": "2026-08-28T17:30:23.898Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Oh My Android 🐙",
+          "description": "🌐 macOS 原生 Android 模拟器控制面板（免费、MIT）：一键深色模式、字体缩放、RTL、TalkBack、网络限速、GPS 模拟，并提供以 dp 为单位的 Layout Inspector；内置 stdio MCP 服务（18 个工具），让 Claude Code、Cursor 等 AI Agent 看到并操作模拟器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free ADB GUI and Android Emulator control panel for macOS. One click for dark mode, font scale, RTL and pseudo-locales, TalkBack, layout bounds, network speed and GPS: no adb commands. Layout Inspector in dp for any app (Compose and Views) with Figma overlay and TalkBack-order audit. Plus an MCP server for AI agents.",
+            "homepage": "https://royan.se/work/oh-my-android/",
+            "id": 1385064931,
+            "language": "Swift",
+            "license": "MIT",
+            "last_commit": "2026-11-09T06:21:11Z",
+            "open_issues": 3,
+            "owner": "ateymoori",
+            "repo": "oh-my-android",
+            "stars": 120,
+            "topics": [
+              "accessibility",
+              "adb",
+              "android",
+              "android-development",
+              "android-emulator",
+              "android-studio",
+              "android-testing",
+              "android-tools",
+              "claude-code",
+              "dark-mode",
+              "developer-tools",
+              "emulator",
+              "jetpack-compose",
+              "localization",
+              "macos",
+              "macos-app",
+              "mcp",
+              "mcp-server",
+              "mobile-testing",
+              "rtl"
+            ]
+          },
+          "first_seen": "2026-11-09T14:04:49.573Z"
         }
       ],
       "title": "🛠 开发工具"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T12:00:59.583Z",
+    "last_updated": "2026-11-09T14:04:49.573Z",
     "original_repository_info": {
       "archived": false,
       "description": "这个项目记录了个人订阅的一些科技人的Blog地址,欢迎大家推荐,一起来完善! 欢迎自荐......",
@@ -900,14 +942,14 @@
       "id": 19644242,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-11-05T02:07:23Z",
+      "last_commit": "2026-11-09T00:36:09Z",
       "open_issues": 17,
       "owner": "Gracker",
       "repo": "awesome-android-ai-dev-sources",
-      "stars": 1926,
+      "stars": 1927,
       "topics": []
     },
-    "original_repository_sha": "04145d440d468e3a0005d5779f3c552c0b41f802",
+    "original_repository_sha": "b69fdc4e12f9ab1badca372c2fbf5a35c973e6ee",
     "enhanced_repository": "enhansome/enhansome-android-ai-dev-sources",
     "enhanced_repository_description": null,
     "title": "Awesome Android AI Dev Sources with stars"
